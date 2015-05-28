@@ -4,7 +4,7 @@ public class testfile
 {
 ///kkkkks
 //hagsdbksjd,bakhsdakshdakbs,djbaskbd
-// you are a freaking cow !!!
+
 	public testfile()
 	{
 		
