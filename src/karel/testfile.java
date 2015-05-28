@@ -6,7 +6,7 @@ public class testfile
 	public testfile()
 	{
 		
-		kjnlj.getClass()..// TODO Auto-generated constructor stub
+	adasdasdad	kjnlj.getClass()..// TODO Auto-generated constructor stub
 	}
 
 }
